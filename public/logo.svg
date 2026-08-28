@@ -1,0 +1,20 @@
+<svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gemGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f0cd63" />
+      <stop offset="100%" stop-color="#b1861f" />
+    </linearGradient>
+  </defs>
+  <path
+    d="M14 1.5 L24.5 8 L24.5 20 L14 26.5 L3.5 20 L3.5 8 Z"
+    fill="none"
+    stroke="url(#gemGrad)"
+    stroke-width="1.6"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M14 8 L18.5 11 V17 L14 20 L9.5 17 V11 Z"
+    fill="url(#gemGrad)"
+    opacity="0.9"
+  />
+</svg>
